@@ -8,7 +8,7 @@ and [VueJS Docs Workflow for Alfred](https://github.com/vmitchell85/alfred-vuejs
 
 ## Installation
 
-1. [Download the latest version](https://github.com/ThomasTr/Alfred-Symfony-Docs/releases/download/0.0.1/Alfred-Symfony-Docs.alfredworkflow)
+1. [Download the latest version](https://github.com/ThomasTr/Alfred-Symfony-Docs/releases/latest/download/Symfony-Docs.alfredworkflow)
 2. Install the workflow by double-clicking the `.alfredworkflow` file
 3. You can add the workflow to a category, then click "Import" to finish importing. You'll now see the workflow listed in the left sidebar of your Workflows preferences pane.
 
