@@ -1,0 +1,17 @@
+{
+  "name": "thomastr/alfred-symfony-docs-workflow",
+  "description": "Alfred search workflow for symfony docs",
+  "version": "0.0.1",
+  "minimum-stability": "alpha",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thomas Trautner",
+      "email": "thomas@trautner.net"
+    }
+  ],
+  "require": {
+    "joetannenbaum/alfred-workflow": "^0.1.2",
+    "algolia/algoliasearch-client-php": "^2.7.0"
+  }
+}
