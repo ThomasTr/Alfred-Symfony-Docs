@@ -1,7 +1,7 @@
 {
   "name": "thomastr/alfred-symfony-docs-workflow",
   "description": "Alfred search workflow for symfony docs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "minimum-stability": "alpha",
   "license": "MIT",
   "authors": [

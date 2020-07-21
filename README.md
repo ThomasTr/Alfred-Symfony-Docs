@@ -15,7 +15,7 @@ and [VueJS Docs Workflow for Alfred](https://github.com/vmitchell85/alfred-vuejs
 ## Usage
 
 ```
-vue <query>
+sf <query>
 ```
 
 Just type `sf` followed by your search query.
