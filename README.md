@@ -1,6 +1,6 @@
 # Symfony Docs Workflow for Alfred
 
-An Symfony docs search workflow for Alfred 3.
+An Symfony docs search workflow for Alfred 4.
 
 Adapted from [Alfred Laravel Docs](https://github.com/tillkruss/alfred-laravel-docs), Thanks [Till Krüss](https://twitter.com/tillkruss)
 and [VueJS Docs Workflow for Alfred](https://github.com/vmitchell85/alfred-vuejs-docs), Thanks [Vince Mitchell](http://www.vincemitchell.me)!
